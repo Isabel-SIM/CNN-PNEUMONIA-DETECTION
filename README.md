@@ -49,10 +49,13 @@ A Convolutional Neural Network (CNN) is a deep learning architecture widely used
 
 4. **Interpret the Result**: Users can interpret the model's prediction to make informed decisions regarding the presence of pneumonia in the X-ray scan.
 
-<img width="608" alt="Screenshot 2023-09-22 at 3 11 57 pm" src="https://github.com/Isabel-SIM/CONVOLUTIONAL-NEURAL-NETWORK-PNEUMONIA-DETECTION/assets/127584188/4edf58e4-9a87-419d-845e-efda51e72d45">
+</br>
+</br>
 
+<img width="516" alt="Screenshot 2023-09-22 at 3 59 18 pm" src="https://github.com/Isabel-SIM/CNN-PNEUMONIA-DETECTION/assets/127584188/90b40b10-9409-4137-9827-010e6b1ea463">
 
-
+</br>
+</br>
 
 ## Disclaimer
 
