@@ -3,19 +3,19 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 
-# Load your trained model
-model = tf.keras.models.load_model('CHESTXRAY.keras')  # Replace with your model's path
+# Load trained model
+model = tf.keras.models.load_model('CHESTXRAY.keras')  
 
-# Define a function to classify X-ray images
+# Define a function to classify the X-ray images
 def classify_image(image):
     img = load_img(image, target_size=(224, 224))
     img = img_to_array(img)
     img = np.expand_dims(img, axis=0)
-    img /= 255.0  # Normalize
+    img /= 255.0  # Normalise
     prediction = model.predict(img)
     return prediction[0][0]
 
-# Streamlit app layout with a medical and technical theme
+# Streamlit app layout 
 st.title("PNEUMONIA DEDECTION")
 st.markdown(
     """
@@ -32,7 +32,7 @@ if uploaded_file is not None:
 
     prediction_text = "Pneumonia Detected" if result > 0.5 else "No Pneumonia Detected"
     
-    # Display the classification result with a technical style
+    # Display classification result
     st.markdown(
         f"""
         ## Analysis Result
