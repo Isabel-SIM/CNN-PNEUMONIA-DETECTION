@@ -59,4 +59,4 @@ A Convolutional Neural Network (CNN) is a deep learning architecture widely used
 
 ## Disclaimer
 
-The Pneumonia Detection Convolutional Neural Network and accompanying Streamlit app ("the App") are provided for educational and informational purposes only. While every effort has been made to ensure the accuracy and reliability of the App, it is not a substitute for professional medical advice, diagnosis, or treatment.
+The Pneumonia Detection Convolutional Neural Network and accompanying Streamlit app are provided for educational and informational purposes only. While every effort has been made to ensure the accuracy and reliability of the App, it is not a substitute for professional medical advice, diagnosis, or treatment.
