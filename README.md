@@ -52,7 +52,9 @@ A Convolutional Neural Network (CNN) is a deep learning architecture widely used
 </br>
 </br>
 
-<img width="516" alt="Screenshot 2023-09-22 at 3 59 18 pm" src="https://github.com/Isabel-SIM/CNN-PNEUMONIA-DETECTION/assets/127584188/90b40b10-9409-4137-9827-010e6b1ea463">
+
+<img width="379" alt="Screenshot 2023-09-25 at 8 57 45 am" src="https://github.com/Isabel-SIM/CNN-PNEUMONIA-DETECTION/assets/127584188/c17cb5dc-84bf-49f2-849a-41ccf875abb3">
+
 
 </br>
 </br>
